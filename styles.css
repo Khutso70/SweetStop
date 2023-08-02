@@ -606,8 +606,10 @@ section {
     font-size: 0.8rem;
   }
   .blog_item {
-    padding: 0;
-    border: none;
+    padding: 2px;
+    border: 1px solid #fff;
+    align-items: center;
+    justify-content: center;
   }
   .footer_logo {
     width: 100%;
